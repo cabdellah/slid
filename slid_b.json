@@ -1,0 +1,47 @@
+{
+    "msg":"success",
+    "data":[
+       {
+          "id":1,
+          "title":"سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+          "desc":"Reference site about Lorem Ipsum, giving information on its origins",
+          "image":"https://raw.githubusercontent.com/cabdellah/slid/main/images/banner_1.jpg",
+          "site":"https://www.google.dz/"
+       },
+       {
+          "id":2,
+          "title":"سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+          "desc":"Reference site about Lorem Ipsum, giving information on its origins",
+          "image":"https://raw.githubusercontent.com/cabdellah/slid/main/images/banner_2.jpg",
+          "site":"https://www.youtube.com/"
+       },
+       {
+          "id":3,
+          "title":"سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+          "desc":"Reference site about Lorem Ipsum, giving information on its origins",
+          "image":"https://raw.githubusercontent.com/cabdellah/slid/main/images/banner_3.jpg",
+          "site":"https://www.google.dz/"
+       },
+       {
+         "id":4,
+         "title":"سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+         "desc":"Reference site about Lorem Ipsum, giving information on its origins",
+         "image":"https://raw.githubusercontent.com/cabdellah/slid/main/images/banner_4.jpg",
+         "site":"https://www.youtube.com/"
+      },
+      {
+         "id":4,
+         "title":"سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+         "desc":"Reference site about Lorem Ipsum, giving information on its origins",
+         "image":"https://raw.githubusercontent.com/cabdellah/slid/main/images/banner_5.jpg",
+         "site":"https://www.youtube.com/"
+      },
+      {
+         "id":4,
+         "title":"سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+         "desc":"Reference site about Lorem Ipsum, giving information on its origins",
+         "image":"https://raw.githubusercontent.com/cabdellah/slid/main/images/banner_6.jpg",
+         "site":"https://www.youtube.com/"
+      }
+   ]
+ }
