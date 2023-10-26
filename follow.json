@@ -1,0 +1,32 @@
+[ 
+  {
+    "name":"يوتـــوب",
+    "icon":"assets/social/y.svg",
+    "url":"https://www.youtube.com/"
+  },
+  {
+    "name":"فيسبـــوك",
+    "icon":"assets/social/f.svg",
+    "url":"https://www.facebook.com/"
+  },
+  {
+    "name":"تويتـــر",
+    "icon":"assets/social/t.svg",
+    "url":"https://twitter.com/"
+  },
+  {
+    "name":"انستقــرام",
+    "icon":"assets/social/i.svg",
+    "url":"https://www.instagram.com/"
+  },
+  {
+    "name":"بلاي ستور",
+    "icon":"assets/social/s.svg",
+    "url":"https://play.google.com/store/apps"
+  },
+  {
+    "name":"بنتـــرست",
+    "icon":"assets/social/p.svg",
+    "url":"https://www.pinterest.com/"
+  }
+]

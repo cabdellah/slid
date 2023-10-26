@@ -1,0 +1,26 @@
+[
+   {
+      "id":"algeria.dz",
+      "libr":"المكتبة البلدية الطاهير وسط",
+      "map":"https://maps.app.goo.gl/F4Dv8J8W4DLHRc6NA",
+      "cover":"https://raw.githubusercontent.com/cabdellah/caca/main/cover/001-01.jpg",
+      "titl":"المدخل إلى مناهج البحث العلمي",
+      "nam":"محمد محمد قاسم",
+      "trans":"",
+      "pub": "دار المعرفة الجامعة الاسكندرية",
+      "date":"1998",
+      "num":"001/01",
+      "desc":"",
+      "inx1":"https://raw.githubusercontent.com/cabdellah/caca/main/cover/1i001-01.jpg",
+      "inx2":"https://raw.githubusercontent.com/cabdellah/caca/main/cover/2i001-01.jpg",
+      "inx3":"https://raw.githubusercontent.com/cabdellah/caca/main/cover/3i001-01.jpg",
+      "inx4":"https://raw.githubusercontent.com/cabdellah/caca/main/cover/4i001-01.jpg",
+      "inx5":"https://raw.githubusercontent.com/cabdellah/caca/main/cover/5i001-01.jpg",
+      "categories":["all","ar","000"],
+      "allbooks":["all"],
+      "newbooks":["new"],
+      "kidsbooks":["kids"],
+      "mostbooks":["most"],
+      "offerbooks":["offer"]
+   }
+]
