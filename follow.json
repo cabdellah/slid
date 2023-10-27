@@ -2,22 +2,27 @@
   {
     "name":"يوتـــوب",
     "icon":"assets/social/y.svg",
-    "url":"https://www.youtube.com/"
+    "url":"https://www.youtube.com"
+  },
+  {
+    "name":"تيك تـــوك",
+    "icon":"assets/social/p.svg",
+    "url":"https://www.tiktok.com"
   },
   {
     "name":"فيسبـــوك",
     "icon":"assets/social/f.svg",
-    "url":"https://www.facebook.com/"
+    "url":"https://www.facebook.com"
   },
   {
     "name":"تويتـــر",
     "icon":"assets/social/t.svg",
-    "url":"https://twitter.com/"
+    "url":"https://twitter.com"
   },
   {
     "name":"انستقــرام",
     "icon":"assets/social/i.svg",
-    "url":"https://www.instagram.com/"
+    "url":"https://www.instagram.com"
   },
   {
     "name":"بلاي ستور",
@@ -27,6 +32,6 @@
   {
     "name":"بنتـــرست",
     "icon":"assets/social/p.svg",
-    "url":"https://www.pinterest.com/"
+    "url":"https://www.pinterest.com"
   }
 ]
