@@ -1,0 +1,37 @@
+[ 
+  {
+    "name":"يوتـــوب",
+    "icon":"https://raw.githubusercontent.com/cabdellah/slid/main/social/y.svg",
+    "url":"https://www.youtube.com"
+  },
+  {
+    "name":"تيك تـــوك",
+    "icon":"https://raw.githubusercontent.com/cabdellah/slid/main/social/t.svg",
+    "url":"https://www.tiktok.com"
+  },
+  {
+    "name":"فيسبـــوك",
+    "icon":"https://raw.githubusercontent.com/cabdellah/slid/main/social/f.svg",
+    "url":"https://www.facebook.com"
+  },
+  {
+    "name":"تويتـر X",
+    "icon":"https://raw.githubusercontent.com/cabdellah/slid/main/social/x.svg",
+    "url":"https://twitter.com"
+  },
+  {
+    "name":"انستقــرام",
+    "icon":"https://raw.githubusercontent.com/cabdellah/slid/main/social/i.svg",
+    "url":"https://www.instagram.com"
+  },
+  {
+    "name":"بلاي ستور",
+    "icon":"https://raw.githubusercontent.com/cabdellah/slid/main/social/s.svg",
+    "url":"https://play.google.com/store/apps"
+  },
+  {
+    "name":"بنتـــرست",
+    "icon":"https://raw.githubusercontent.com/cabdellah/slid/main/social/p.svg",
+    "url":"https://www.pinterest.com"
+  }
+]
